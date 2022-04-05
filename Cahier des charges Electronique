@@ -1,7 +1,0 @@
-Cahier des charges : ELectronique
--Autonomie > Temps de vol
--Possibilité de démarrer la fusée a distance et de controler le lancement
--Poids minimal
--Système de déploiement du parachute
--Programme le plus optimisé possible sur un micro-controlleur -> C++
--Système sonore pour retrouver la fusée à l'aterrissage
