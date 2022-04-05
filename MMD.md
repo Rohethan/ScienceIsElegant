@@ -4,10 +4,10 @@
 
 Un truc pour mesurer la poussée des moteurs
 
-investiguer avec (this)[http://www.bransensor.com/product-10n-20n-50n-100n-150n-200n-500n-miniature-s-load-cells-pull-sensors-b318b-20515.html]
-
+investiguer avec une load celle comme ca https://www.robotgear.com.au/Product.aspx/Details/3247-Load-Cell-10kg-Straight-Bar-TAL220
 idée :
-
+physique : 
 Capteur <-- Moteur (supporté)
 
-donées du capteur into pico into serial into pc into file into study into bettor moter
+electonique:
+capteur > amplifier > pico > pc > fichier.csv
